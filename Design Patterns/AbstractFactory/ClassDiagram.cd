@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteFactory1" Collapsed="true">
+    <Position X="2" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFactory1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteFactory2" Collapsed="true">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFactory2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteFactory3" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteFactory3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductA1" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductA1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductA2" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductA2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductA3" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductA3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductB1" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductB1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductB2" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductB2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ConcreteProductB3" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteProductB3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.Factory" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ProductA" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.ProductB" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPatterns.AbstractFactory.Program" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

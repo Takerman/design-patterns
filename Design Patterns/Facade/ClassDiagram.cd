@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Takerman.DesignPattern.FacadePattern.AccountNumberCheck" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>AccountNumberCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPattern.FacadePattern.BankAccountFacade" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEIQAQACAAAAAAACAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>BankAccountFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPattern.FacadePattern.Program" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPattern.FacadePattern.SecurityCheck" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecurityCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Takerman.DesignPattern.FacadePattern.WelcomeToBank" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WelcomeToaBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
